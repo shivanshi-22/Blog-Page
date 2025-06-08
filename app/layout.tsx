@@ -7,7 +7,7 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'DevBlog - Modern Web Development Insights',
+  title: 'MyBlog - Modern Web Development Insights',
   description: 'Discover the latest trends, tutorials, and insights in web development. From TypeScript to CSS Grid, stay ahead in the world of programming.',
   keywords: 'web development, programming, TypeScript, CSS, JavaScript, React, Next.js',
   authors: [{ name: 'DevBlog Team' }],
